@@ -3,7 +3,7 @@
 
 /**
  * partition - sort an array of integers using quick_sort
-		lomuto implementation with pivot in last element of partition
+ *		lomuto implementation with pivot in last element of partition
  * @array: array to sort
  * @min: minimum value
  * @max: max value
